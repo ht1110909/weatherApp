@@ -1,0 +1,16 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A simple weather application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1"
+  },
+  "keywords": ["weather", "api", "node"],
+  "author": "",
+  "license": "ISC"
+}
